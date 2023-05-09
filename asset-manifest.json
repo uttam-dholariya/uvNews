@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/uvNews/static/css/main.073c9b0a.css",
+    "main.js": "/uvNews/static/js/main.9f8abf23.js",
+    "static/js/787.5c60f662.chunk.js": "/uvNews/static/js/787.5c60f662.chunk.js",
+    "static/media/loading.gif": "/uvNews/static/media/loading.d2534c45151c3421ce7c.gif",
+    "index.html": "/uvNews/index.html",
+    "main.073c9b0a.css.map": "/uvNews/static/css/main.073c9b0a.css.map",
+    "main.9f8abf23.js.map": "/uvNews/static/js/main.9f8abf23.js.map",
+    "787.5c60f662.chunk.js.map": "/uvNews/static/js/787.5c60f662.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9f8abf23.js"
+  ]
+}
